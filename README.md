@@ -31,10 +31,15 @@ Runs on: http://localhost:5173
 API Endpoints:
 Auth
 POST /api/auth/register
+
 POST /api/auth/login
+
 Courses (Protected)
+
 GET /api/courses
+
 POST /api/courses
+
 DELETE /api/courses/:id
 
 Project Structure
